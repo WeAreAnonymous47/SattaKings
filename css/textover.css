@@ -1,0 +1,50 @@
+@charset "utf-8";
+.content
+{
+	background-color: #0F0F0F;
+	weight: 100px;
+	height: 300px;
+	margin: 0%;
+}
+
+.text h3{
+	margin: 0px;
+	color: white;
+	font-size: 15px;
+	font-family: "arial", serif;
+}
+
+.text2 h3{
+	margin-top: -122.5px;
+	margin-left: 190px;
+	color: white;
+	font-size: 15px;
+	font-family: "arial", serif;
+}
+
+.text3 h3{
+	margin-top: -15px;
+	margin-left: 190px;
+	color: white;
+	font-size: 15px;
+	font-family: "arial", serif;
+}
+
+.text4 h3{
+	margin-top: -15px;
+	margin-left: 190px;
+	color: white;
+	font-size: 15px;
+	font-family: "arial", serif;
+}
+
+.text5 h3{
+	margin-top: -15px;
+	margin-left: 190px;
+	color: white;
+	font-size: 15px;
+	font-family: "arial", sarif;
+}
+.Arial {
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}

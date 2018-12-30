@@ -1,0 +1,49 @@
+@charset "utf-8";
+.contact
+{
+	width: 350px;
+	
+	align-content: center;
+	margin: 1px;
+}
+
+.contactus
+{
+	
+	z-index: 1;
+	background-color: white;
+	max-width: 320px;
+	max-height: 600px;
+	border: groove;
+	margin-center: 0 auto 100px;
+	padding: auto;
+}
+
+.contactus input
+{
+	font-family: "arial", sans-serif;
+	outline: 1;
+	background: white;
+	width: 250px;
+	height: 10px;
+	border: 1;
+	margin: 0 0 13px;
+	padding: 18px;
+	box-sizing:  14px;
+	font-size: 14px;
+}
+
+.contactus button
+{
+	font-family: "arial", sans-serif;
+	text-trasform: uppercase;
+	outline: 0;
+	background: blue;
+	width: 50%;
+	border: 0;
+	margin: -5px 0 0;
+	padding: 15px;
+	colour: #FFFFFF;
+	font-size: 14px;
+	cursor: pointer;
+}
